@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+#portada{
+    width: auto;
+    height: 4000px;
+    margin: auto;
+}
+#titulo{
+    margin-left: 125px;
+}
+.portadas{
+    display: flex;
+    margin-left: 100px;
+}
+.portadas2{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 2%;
+}
+.nombre1{
+    background-color: white;
+    color: black;
+    margin-top: 0.5px;
+    width: 200px;
+    font-size: 22px;
+}
